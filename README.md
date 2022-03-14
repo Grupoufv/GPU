@@ -1,2 +1,2 @@
 # GPU
-Some implementations of gpu  codes in Python
+Some implementations of GPU  codes in Python
